@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Veeramani M Mahadev
+- 👋 Hi, I’m @Veeramani_M_Mahadev
 - 👀 I’m interested in AI and Maching learning and deep learning 
 - 🌱 I’m currently learning python basics 
 - 💞️ I’m looking to collaborate on python learning support group
