@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Veeramani M Mahadevan
-- 👀 I’m interested in AI and Maching learning and deep learning 
+- 👋 Hi, I’m @Veeramani M Mahadev
+- 👀 I’m interested in AI and Maching learning and deep learning
+- currently in Internship Program in Full Stack Java Development Program @ KodNest Edutech Banaglore
 - 🌱 I’m currently learning python basics 
 - 💞️ I’m looking to collaborate on python learning support group
 - 📫 reach me at maniveermahadev@gmail.com
