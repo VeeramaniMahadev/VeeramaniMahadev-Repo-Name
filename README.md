@@ -14,7 +14,7 @@ Welcome to my data science portfolio! This repository showcases my projects, ski
 - **Description:** Brief description of what you did
 - **Tech Stack:** Python, Pandas, Scikit-learn, etc.
 - **Link:** [Link to project folder]
-- **Status:** ✅ Complete
+- **Status:** 🔄 In Progress
 
 ### Project 2: [Project Title]
 - **Description:** Brief description
@@ -27,7 +27,7 @@ Welcome to my data science portfolio! This repository showcases my projects, ski
 ### Languages
 - Python
 - SQL
-- R (optional)
+- R 
 
 ### Libraries & Tools
 - Pandas
