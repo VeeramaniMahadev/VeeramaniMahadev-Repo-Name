@@ -4,7 +4,7 @@ Welcome to my data science portfolio! This repository showcases my projects, ski
 
 ## About Me
 - **Name:** Veeramani Mahadev
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** [www.linkedin.com/in/veeramanimahadev89]
 - **GitHub:** [@VeeramaniMahadev](https://github.com/VeeramaniMahadev)
 - **Email:** maniveermahadev@gmail.com
 
